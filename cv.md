@@ -7,7 +7,7 @@ as.tapochek@gmail.com
 
    I am open-minded and have a broad team work experience.
 
-4. HTML/ CSS/ Git (basic knowledge)/ JS basic
+4. Skills: HTML, CSS, Git basics, JS basics
 5. Education:    
     * Master degree in accounting and statistics (Belarusian State Economic University)
     * HTML (basic course) ru.code-basics.com 
